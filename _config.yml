@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: "the mowge blog"
+description: "a blog about weird things i do"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "mowge"
+  email: "spam@mowge.com"
+  url: "https://mowge.github.io/"
 
 baseurl: /
 
